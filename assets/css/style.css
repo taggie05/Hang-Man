@@ -1,0 +1,61 @@
+
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", 
+  "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  color:black;
+  height:100%;
+  text-align:center;
+  font-size:18px;
+  background-color: black;
+ 
+}
+#arch{
+  float: right;
+  text-align: center;
+  margin-right:100px;
+}
+img{
+  padding-top: 100px;
+  height: 50%;
+  width: 50%;
+  float: left;
+}
+div{ 
+  color: #2beef1;
+  padding: 5px;
+ }
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	text-transform: uppercase;
+   margin:5px 0;
+   color: #4990ff;
+   padding: 5px;
+}
+
+h1 {
+	font-size: 50px;
+  
+}
+
+h2, p {
+	font-size: 40px;
+}
+
+#Lana{
+  padding: 10px;
+  color: white;
+}
+
+.panel{
+  font-size: 30px;
+  padding: 7px;
+}
+
+
+
+
+
+
+
